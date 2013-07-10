@@ -10,6 +10,7 @@ namespace ClassLibrary1
         public void Hi()
         {
             Console.WriteLine();
+            Console.WriteLine("Hi world");
         }
     }
 }
